@@ -1,0 +1,5 @@
+SyntaxError:
+
+NameError: name 'c' is not defined
+
+ZeroDivisionError: division by zero

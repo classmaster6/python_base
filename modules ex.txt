@@ -1,0 +1,9 @@
+BUILTIN MODULES: (written in C) ---- sys ---- time
+    contain builtin objects
+    sys is a builtin module > has more builtin modules inside of it (time)
+    sys.builtin_module_names is an attribute of sys that returns builtin modules
+
+STANDARD MODULES: (written in Python) ---- os
+    
+
+THIRD PARTY MODULES: (written in Python by non-python devs) ---- pandas
